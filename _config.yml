@@ -42,7 +42,7 @@ social:
   links:
     - https://github.com/azqazq195 # change to your github homepage
 
-google_site_verification: WOp5ooywFyFNow8kSkc06QOHYj0bRk_FDwcy_N7kVA4
+google_site_verification: "WOp5ooywFyFNow8kSkc06QOHYj0bRk_FDwcy_N7kVA4"
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -71,7 +71,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/profile/logo.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
