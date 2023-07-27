@@ -4,32 +4,32 @@
 theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
-# and doesn't have a custom domain.
+# and doesn't have a custsom domain.
 baseurl: ""
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: ko-KR
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Moseoh # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 즐겁다! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Backend, 백엔드, development, 개발, spring, spring boot, kotlin, java, 자바, 코틀린, 스프링, 스프링 부트
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://azqazq195.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: azqazq195 # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -37,17 +37,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: moseoh
+  email: azqazq195@gmail.com # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/azqazq195 # change to your github homepage
 
-google_site_verification: # fill in to your verification string
+google_site_verification: WOp5ooywFyFNow8kSkc06QOHYj0bRk_FDwcy_N7kVA4
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -66,7 +61,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
